@@ -26,7 +26,7 @@ const questions = [
         name: "Usage",
       },
     {
-        type: "input",
+        type: "list",
         message: "Please select a license for this README.",
         name: "License",
         choices: [
