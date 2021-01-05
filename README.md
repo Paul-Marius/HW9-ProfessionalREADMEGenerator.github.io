@@ -14,7 +14,7 @@ ___
 
 ### Usage
 - After you installing the dependencies the application can be run `node index.js`
-- You can follow the video bellow:![Video link](https://drive.google.com/file/d/1ZrIgExguCoeae_07xGWaFCzxqlH9y-l0/view)
+- You can follow the video bellow:[Video link](https://drive.google.com/file/d/1ZrIgExguCoeae_07xGWaFCzxqlH9y-l0/view)
 
 ### Contribution
 - Respect.
